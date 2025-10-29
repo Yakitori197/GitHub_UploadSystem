@@ -198,10 +198,4 @@ git push -u origin main
 
 本專案採用 MIT 授權條款。
 
-## 🤝 貢獻
 
-歡迎提交 Issue 和 Pull Request！
-
-## 📧 聯繫方式
-
-如有問題，請通過配置文件中的郵箱聯繫。
