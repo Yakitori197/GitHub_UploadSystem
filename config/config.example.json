@@ -1,0 +1,18 @@
+{
+    "user": {
+        "name": "範例用戶",
+        "email": "example@example.com"
+    },
+    "project": {
+        "name": "My Python Project",
+        "version": "1.0.0",
+        "description": "A modular Python project",
+        "author": "Your Name",
+        "repository": "https://github.com/username/repo"
+    },
+    "settings": {
+        "debug_mode": false,
+        "log_level": "INFO",
+        "language": "zh-TW"
+    }
+}

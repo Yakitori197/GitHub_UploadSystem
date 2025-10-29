@@ -1,0 +1,9 @@
+# Python 專案依賴套件
+# 安裝方式: pip install -r requirements.txt
+
+# 目前此專案僅使用 Python 標準庫，無需額外依賴
+
+# 如需添加其他套件，請在下方列出，例如:
+# requests==2.31.0
+# pandas==2.0.3
+# numpy==1.24.3
