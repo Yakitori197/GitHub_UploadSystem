@@ -53,4 +53,4 @@ Thumbs.db
 htmlcov/
 
 # 配置文件備份（如果不想上傳個人配置）
-# config/config.json
+config/config.json

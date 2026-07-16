@@ -25,7 +25,7 @@ GitHub_UploadSystem/
 
 ### 1. 配置環境
 
-本專案使用純 Python 開發，無需 Anaconda，僅需安裝 Python 3.7+。
+本專案使用純 Python 開發，無需 Anaconda，僅需安裝 Python 3.10+。
 
 ```bash
 # 安裝依賴（目前無外部依賴）
@@ -59,9 +59,10 @@ pip install -r requirements.txt
 
 #### 在命令行中運行：
 ```bash
-cd src
-python main.py
+python run.py
 ```
+
+請從專案根目錄執行；`run.py` 會載入 `src/main.py`。
 
 ## 📚 模組說明
 
